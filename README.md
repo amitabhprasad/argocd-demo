@@ -1,2 +1,2 @@
 # argocd-demo
-ArgoDC Demo
+Sample repo for ArgoDC Demo
